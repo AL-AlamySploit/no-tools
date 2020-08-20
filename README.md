@@ -52,7 +52,3 @@ $ python2 DrXp.py
 <br>
 U can update this program with command "AL-AlamySploit update"
 <br>
-<br>
-if you have a bug is running this program?report bug on my instagram.
-<br>
-contact instagram : @al_alamy7
