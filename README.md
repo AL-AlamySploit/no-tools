@@ -1,6 +1,6 @@
-# DarkSploit
+# AL-AlamySploit
 <br>
-DarkSploit Framework hanyalah sebuah tools yang mengandung banyak exploit dan scanner web aplication
+AL-AlamySploit Framework hanyalah sebuah tools yang mengandung banyak exploit dan scanner web aplication
 <br>
 cocok sekali buat para defacer xd
 <br>
@@ -14,9 +14,9 @@ next tutorial.
 <br>
 #TERMUX
 <br>
-$ git clone https://github.com/LOoLzeC/DarkSploit
+$ git clone https://github.com/AL-AlamySploit/AL-AlamySploit
 <br>
-$ cd DarkSploit
+$ cd AL-AlamySploit
 <br>
 $ cd Install
 <br>
@@ -33,9 +33,9 @@ $ python2 DrXp.py
 <br>
 #GNUROOT
 <br>
-$ git clone https://github.com/LOoLzeC/DarkSploit
+$ git clone https://github.com/AL-AlamySploit/AL-AlamySploit
 <br>
-$ cd DarkSploit
+$ cd AL-AlamySploit
 <br>
 $ cd Install
 <br>
@@ -50,9 +50,9 @@ $ python2 DrXp.py
 #Finish
 <br>
 <br>
-U can update this program with command "darksploit update"
+U can update this program with command "AL-AlamySploit update"
 <br>
 <br>
 if you have a bug is running this program?report bug on my instagram.
 <br>
-contact instagram : @yungreyyxrist
+contact instagram : @al_alamy7
