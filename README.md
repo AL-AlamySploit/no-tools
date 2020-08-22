@@ -1,15 +1,5 @@
 # AL-AlamySploit
-<br>
-AL-AlamySploit Framework hanyalah sebuah tools yang mengandung banyak exploit dan scanner web aplication
-<br>
-cocok sekali buat para defacer xd
-<br>
-selain itu tools ini juga bisa dijalankan diandroid,malah sengaja buat tools ini untuk di jalankan diandroid:)
-<br>
-oh iya,btw tools ini kurang work kalo dijalanin ditermux jadi ada agak sedikit problem:)
-<br>
-<br>
-next tutorial.
+
 <br>
 <br>
 #TERMUX
