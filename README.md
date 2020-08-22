@@ -4,9 +4,9 @@
 <br>
 #TERMUX
 <br>
-$ git clone https://github.com/AL-AlamySploit/AL-AlamySploit
+$ git clone https://github.com/AL-AlamySploit/AL-Termux
 <br>
-$ cd AL-AlamySploit
+$ cd AL-Termux
 <br>
 $ cd Install
 <br>
@@ -23,9 +23,9 @@ $ python2 DrXp.py
 <br>
 #GNUROOT
 <br>
-$ git clone https://github.com/AL-AlamySploit/AL-AlamySploit
+$ git clone https://github.com/AL-AlamySploit/AL-Termux
 <br>
-$ cd AL-AlamySploit
+$ cd AL-Termux
 <br>
 $ cd Install
 <br>
